@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GearCalculator</string>
+    <string-array name="front">
+        <item>28</item>
+        <item>30</item>
+        <item>32</item>
+        <item>34</item>
+        <item>36</item>
+        <item>38</item>
+    </string-array>
+    <string-array name="rear">
+        <item>10-52</item>
+        <item>10-50</item>
+    </string-array>
+</resources>
